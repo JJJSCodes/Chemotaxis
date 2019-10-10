@@ -30,6 +30,6 @@
      myY += randomY;
    }
    void show() {
-     circle(myX, myY, 50);
+     ellipse(myX, myY, 50, 50);
    }
  }    
